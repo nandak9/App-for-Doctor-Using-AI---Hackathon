@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2">
+
+    <Button
+        android:id="@+id/headacheButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/outline_background"
+        android:layout_margin="8dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="8dp"
+        android:text="Headache"
+        android:textColor="@color/brand_color_dark"
+        android:layout_gravity="center"
+        android:textSize="14sp"
+        android:layout_weight="1"/>
+
+
+
+    <Button
+        android:id="@+id/feverButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/brand_color"
+        android:layout_margin="8dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="8dp"
+        android:text="Fever"
+        android:textColor="@color/white"
+        android:layout_gravity="center"
+        android:textSize="14dp"
+        android:layout_weight="1"/>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/bodyPainButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/brand_color"
+            android:layout_margin="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="8dp"
+            android:text="Body Pain"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:textSize="14sp"
+            android:layout_weight="1"/>
+
+
+
+        <Button
+            android:id="@+id/skinAllergyButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/brand_color"
+            android:layout_margin="8dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="8dp"
+            android:text="Skin Allergy"
+            android:textColor="@color/white"
+            android:layout_gravity="center"
+            android:textSize="14sp"
+            android:layout_weight="1"/>
+
+    </LinearLayout>
+
+</LinearLayout>

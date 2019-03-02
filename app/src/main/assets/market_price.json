@@ -1,0 +1,600 @@
+{
+  "cropPrice": {
+    "id": "483",
+    "value": "CropMarketPrice",
+    "loc": "Sangali,Maharastra",
+    "cropNames": [
+
+      {
+        "cropname": "BAJRI",
+        "id":"1",
+        "IMG_URL": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Grain_millet%2C_early_grain_fill%2C_Tifton%2C_7-3-02.jpg",
+        "days":[
+          {
+            "day": "1",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "38",
+            "lrate": "1450",
+            "hrate": "1800",
+            "modal": "1625"
+          },
+          {
+            "day": "2",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "97",
+            "lrate": "1450",
+            "hrate": "1800",
+            "modal": "1625"
+          },
+          {
+            "day": "3",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "91",
+            "lrate": "1450",
+            "hrate": "1800",
+            "modal": "1625"
+          },
+          {
+            "day": "4",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "53",
+            "lrate": "1450",
+            "hrate": "1800",
+            "modal": "1625"
+          },
+          {
+            "day": "5",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "86",
+            "lrate": "1450",
+            "hrate": "1800",
+            "modal": "1625"
+          },
+          {
+            "day": "6",
+            "name": "LOCAL",
+            "variety": "Q",
+            "unit": "94",
+            "quantity": "Q",
+            "lrate": "1490",
+            "hrate": "1780",
+            "modal": "1680"
+          }
+        ]},
+      {   "cropname": "BEDANA",
+          "id": "2",
+          "IMG_URL": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pomegranate03_edit.jpg",
+        "days":[
+          {
+            "day":"1",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "3132",
+            "lrate": "10000",
+            "hrate": "16300",
+            "modal": "13150"
+          },
+          {
+            "day": "2",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "20",
+            "lrate": "10000",
+            "hrate": "17100",
+            "modal": "14010"
+          },
+          {
+            "day": "3",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "20",
+            "lrate": "10000",
+            "hrate": "16700",
+            "modal": "13700"
+          },
+          {
+            "day":"4",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "45",
+            "lrate": "10500",
+            "hrate": "17100",
+            "modal": "16500"
+          },
+          {
+            "day":"5",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "3102",
+            "lrate": "10000",
+            "hrate": "17400",
+            "modal": "13700"
+          },
+          {
+            "day":"6",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "20",
+            "lrate": "9900",
+            "hrate": "15990",
+            "modal": "15100"
+          }
+          ]
+        },
+      { "cropname": "GRAM",
+        "id":"3",
+          "IMG_URL": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Sa_green_gram.jpg",
+        "days":[
+        {
+            "day":"1",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "40",
+            "lrate": "4400",
+            "hrate": "4500",
+            "modal": "4500"
+          },
+          {
+            "day":2,
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "3341",
+            "lrate": "3500",
+            "hrate": "4120",
+            "modal": "3810"
+          },
+          {
+            "day":"3",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "30",
+            "lrate": "3000",
+            "hrate": "4000",
+            "modal": "3500"
+          },
+          {
+            "day":"4",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "20",
+            "lrate": "4400",
+            "hrate": "4500",
+            "modal": "4450"
+          },
+          {
+            "day":"5",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "20",
+            "lrate": "4400",
+            "hrate": "4550",
+            "modal": "4475"
+          },
+          {
+            "day":"6",
+            "variety": "LOCAL",
+            "unit": "45",
+            "quantity": "Q",
+            "lrate": "4400",
+            "hrate": "4500",
+            "modal": "4450"
+          }]
+        },
+      { "cropname": "JAGGERY",
+        "id":"4",
+          "IMG_URL": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Finger_millet_3_11-21-02.jpg",
+          "days":[{
+            "day":"1",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "1313",
+            "lrate": "3600",
+            "hrate": "4115",
+            "modal": "3858"
+          },
+          {
+            "day":"2",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "3341",
+            "lrate": "3500",
+            "hrate": "4120",
+            "modal": "3810"
+          },
+          {
+            "day":"3",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "2387",
+            "lrate": "3280",
+            "hrate": "4200",
+            "modal": "3740"
+          },
+          {
+            "day":"4",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "3366",
+            "lrate": "3250",
+            "hrate": "4175",
+            "modal": "3713"
+          },
+          {
+            "day":"5",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "1886",
+            "lrate": "3200",
+            "hrate": "3970",
+            "modal": "3585"
+          },
+          {
+            "day":"6",
+            "name": "LOCAL",
+            "variety": "Q",
+            "unit": "3366",
+            "quantity": "Q",
+            "lrate": "3250",
+            "hrate": "4175",
+            "modal": "3713"
+          }
+        ]},
+      { "cropname": "MATKI",
+        "id":"5",
+          "IMG_URL": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Matki.JPG",
+          "days": [{
+            "day": "1",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "56",
+            "lrate": "5500",
+            "hrate": "6500",
+            "modal": "6000"
+          },
+           {
+             "day":"2",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "45",
+            "lrate": "5000",
+            "hrate": "6000",
+            "modal": "5000"
+          },
+          {
+            "day":"3",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "65",
+            "lrate": "4450",
+            "hrate": "5800",
+            "modal": "5200"
+          },
+          {
+            "day":"4",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "53",
+            "lrate": "4900",
+            "hrate": "6500",
+            "modal": "5750"
+          },
+          {
+            "day":"5",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "46",
+            "lrate": "4450",
+            "hrate": "6800",
+            "modal": "5625"
+          },
+          {
+            "day":"6",
+            "name": "LOCAL",
+            "variety": "Q",
+            "unit": "94",
+            "quantity": "Q",
+            "lrate": "4490",
+            "hrate": "6780",
+            "modal": "5680"
+          }
+        ]},
+      { "cropname": "RICE(PADDY-HUS)",
+        "id":"6",
+          "IMG_URL": "https://upload.wikimedia.org/wikipedia/commons/5/58/Red_Rice_Paddy_field_in_Japan_002.jpg",
+          "days": [{
+            "day":"1",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "415",
+            "lrate": "2000",
+            "hrate": "6000",
+            "modal": "4000"
+          },
+          {
+            "day":"2",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "275",
+            "lrate": "2200",
+            "hrate": "6500",
+            "modal": "4350"
+          },
+          {
+            "day":"3",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "523",
+            "lrate": "2000",
+            "hrate": "6000",
+            "modal": "4000"
+          },
+           {
+             "day":"4",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "294",
+            "lrate": "2000",
+            "hrate": "6000",
+            "modal": "4000"
+          },
+          {
+            "day":"5",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "325",
+            "lrate": "2000",
+            "hrate": "6000",
+            "modal": "4000"
+          },
+          {
+            "day":"6",
+            "name": "LOCAL",
+            "variety": "Q",
+            "unit": "94",
+            "quantity": "Q",
+            "lrate": "2000",
+            "hrate": "6000",
+            "modal": "4000"
+          }
+       ] },
+      { "cropname": "SORGUM(JAWAR)",
+        "id":"7",
+          "IMG_URL": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Jowar_Sorghum.JPG",
+          "days": [{
+            "day":"1",
+            "variety": "HYBRID",
+            "unit": "Q",
+            "quantity": "145",
+            "lrate": "1750",
+            "hrate": "2000",
+            "modal": "1875"
+          },
+          {
+            "day":"2",
+            "variety": "HYBRID",
+            "unit": "Q",
+            "quantity": "50",
+            "lrate": "1750",
+            "hrate": "2100",
+            "modal": "1925"
+          },
+          {
+            "day":"3",
+            "variety": "HYBRID",
+            "unit": "Q",
+            "quantity": "83",
+            "lrate": "1800",
+            "hrate": "2000",
+            "modal": "1900"
+          },
+          {
+            "day":"4",
+            "variety": "HYBRID",
+            "unit": "Q",
+            "quantity": "60",
+            "lrate": "1750",
+            "hrate": "2000",
+            "modal": "1875"
+          },
+          {
+            "day":"5",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "86",
+            "lrate": "1450",
+            "hrate": "1800",
+            "modal": "1625"
+          },
+          {
+            "day":"6",
+            "variety": "HYBRID",
+            "unit": "Q",
+            "quantity": "114",
+            "lrate": "1750",
+            "hrate": "1900",
+            "modal": "1825"
+          }
+        ]},
+      {"cropname": "SOYABEAN",
+        "id":"8",
+          "IMG_URL": "https://upload.wikimedia.org/wikipedia/commons/8/82/Soybean.USDA.jpg",
+          "days": [{
+
+            "day":"1",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "16",
+            "lrate": "3050",
+            "hrate": "3200",
+            "modal": "3125"
+          },
+          {
+            "day":"2",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "97",
+            "lrate": "3050",
+            "hrate": "3100",
+            "modal": "3075"
+          },
+          {
+            "day":"3",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "16",
+            "lrate": "3050",
+            "hrate": "3200",
+            "modal": "3125"
+          },
+          {
+            "day":"4",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "97",
+            "lrate": "3050",
+            "hrate": "3100",
+            "modal": "3075"
+          },
+          {
+            "day":"5",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "86",
+            "lrate": "3050",
+            "hrate": "3200",
+            "modal": "3100"
+          },
+          {
+            "day":"6",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "16",
+            "lrate": "3050",
+            "hrate": "3200",
+            "modal": "3125"
+          }
+        ]},
+      { "cropname": "TURMERIC",
+        "id":"9",
+          "IMG_URL": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Curcuma_longa_roots.jpg",
+          "days": [{
+            "day":"1",
+            "variety": "RAJAPURI",
+            "unit": "Q",
+            "quantity": "431",
+            "lrate": "5950",
+            "hrate": "9000",
+            "modal": "7474"
+          },
+          {
+            "day":"2",
+            "variety": "RAJAPURI",
+            "unit": "Q",
+            "quantity": "97",
+            "lrate": "6050",
+            "hrate": "9100",
+            "modal": "7075"
+          },
+          {
+            "day":"3",
+            "variety": "RAJAPURI",
+            "unit": "Q",
+            "quantity": "16",
+            "lrate": "5050",
+            "hrate": "9200",
+            "modal": "7125"
+          },
+          {
+            "day":"4",
+            "variety": "RAJAPURI",
+            "unit": "Q",
+            "quantity": "97",
+            "lrate": "5050",
+            "hrate": "9100",
+            "modal": "7075"
+          },
+          {
+            "day":"5",
+            "variety": "RAJAPURI",
+            "unit": "Q",
+            "quantity": "86",
+            "lrate": "5050",
+            "hrate": "9200",
+            "modal": "7100"
+          },
+          {
+            "day":"6",
+            "variety": "RAJAPURI",
+            "unit": "Q",
+            "quantity": "16",
+            "lrate": "5050",
+            "hrate": "9200",
+            "modal": "7125"
+          }
+        ]},
+      { "cropname": "WHEAT(HUSKED)",
+        "id":"10",
+          "IMG_URL": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Wheat_close-up.JPG",
+          "days": [{
+            "day":"1",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "208",
+            "lrate": "2050",
+            "hrate": "2650",
+            "modal": "2350"
+          },
+          {
+            "day":"2",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "162",
+            "lrate": "1800",
+            "hrate": "2750",
+            "modal": "2275"
+          },
+          {
+            "day":"3",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "230",
+            "lrate": "2050",
+            "hrate": "2650",
+            "modal": "2350"
+          },
+          {
+            "day":"4",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "120",
+            "lrate": "2050",
+            "hrate": "2600",
+            "modal": "2325"
+          },
+          {
+            "day":"5",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "252",
+            "lrate": "2050",
+            "hrate": "2650",
+            "modal": "2350"
+          },
+          {
+            "day":"6",
+            "variety": "LOCAL",
+            "unit": "Q",
+            "quantity": "230",
+            "lrate": "2050",
+            "hrate": "2650",
+            "modal": "2350"
+          }
+        ]}
+    ]
+  }
+}

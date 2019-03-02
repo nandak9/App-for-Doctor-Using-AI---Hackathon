@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    tools:context=".Activity.HomeActivity">
+    <include layout="@layout/content_home" />
+
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar"></include>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/toolbar">
+    </android.support.v7.widget.RecyclerView>
+
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fabAdd"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:src="@android:drawable/ic_menu_add"
+        app:backgroundTint="@color/white"
+        android:padding="4dp"
+        android:tint="@color/white"
+        app:rippleColor="@color/brand_color"
+        fab:fab_label="@string/add_prescription"
+        fab:fab_colorNormal="@color/brand_color_dark"
+        fab:fab_colorPressed="@color/brand_color_dark"
+        fab:fab_colorRipple="@color/brand_color_dark"
+        android:background="@color/brand_color_dark"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="12dp"
+        android:layout_marginBottom="12dp"
+        fab:fab_size="normal" />
+
+
+    <Button
+        android:id="@+id/videoCallButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="Launch Video Call"
+        android:textColor="@color/white"
+        android:background="@color/brand_color_dark"
+      android:padding="16dp"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

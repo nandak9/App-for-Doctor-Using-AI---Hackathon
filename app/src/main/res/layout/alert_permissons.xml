@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:visibility="visible"
+    card_view:cardCornerRadius="@dimen/Two">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/HundreadFifty"
+            android:background="@color/teal400"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="@dimen/FourtyTwo"
+                android:layout_height="@dimen/FourtyTwo"
+                android:src="@drawable/ic_phone_white_48dp" />
+
+
+            <ImageView
+                android:layout_width="@dimen/Eighteen"
+                android:layout_height="@dimen/Eighteen"
+                android:layout_margin="@dimen/Eight"
+                android:src="@drawable/ic_plus_white_36dp" />
+            <!-- -->
+
+            <ImageView
+                android:layout_width="@dimen/FourtyTwo"
+                android:layout_height="@dimen/FourtyTwo"
+                android:src="@drawable/ic_message_processing_white_48dp" />
+            <!---->
+
+            <ImageView
+                android:layout_width="@dimen/Eighteen"
+                android:layout_height="@dimen/Eighteen"
+                android:layout_margin="@dimen/Eight"
+                android:src="@drawable/ic_plus_white_36dp" />
+            <!---->
+
+            <ImageView
+                android:layout_width="@dimen/FourtyTwo"
+                android:layout_height="@dimen/FourtyTwo"
+                android:src="@drawable/ic_folder_white_48dp" />
+            <!-- -->
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <com.app.kisanx.Objects.RobotoTextViewBold
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/four"
+                android:layout_marginLeft="@dimen/Sixteen"
+                android:layout_marginRight="@dimen/Sixteen"
+                android:layout_marginTop="@dimen/Sixteen"
+                android:gravity="center"
+                android:text="@string/to_get_going_we_need_to_access"
+                android:textColor="@color/secondary_text_material_dark"
+                android:textSize="@dimen/Sixteen" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.app.kisanx.Objects.RobotoTextViewBold
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/Sixteen"
+                    android:gravity="top|start"
+                    android:text="@string/phone_and_storage"
+                    android:textColor="@color/secondary_text_material_dark"
+                    android:textSize="@dimen/Fourteen"
+                    android:textStyle="bold" />
+
+                <com.app.kisanx.Objects.RobotoTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/TwentyFour"
+                    android:layout_marginEnd="@dimen/Sixteen"
+                    android:gravity="start|center"
+                    android:text="@string/security_experience"
+                    android:textColor="@color/secondary_text_material_dark"
+                    android:textSize="@dimen/Twelve" />
+            </LinearLayout>
+
+             <LinearLayout
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:orientation="vertical">
+
+                 <com.app.kisanx.Objects.RobotoTextViewBold
+                     android:layout_width="wrap_content"
+                     android:layout_height="wrap_content"
+                     android:layout_marginLeft="@dimen/Sixteen"
+                     android:gravity="top|left"
+                     android:text="\n\u2022 CONTACTS"
+                     android:textColor="@color/secondary_text_material_dark"
+                     android:textSize="@dimen/Fourteen"
+                     android:textStyle="bold" />
+
+                 <com.app.kisanx.Objects.RobotoTextView
+                     android:layout_width="match_parent"
+                     android:layout_height="wrap_content"
+                     android:layout_marginLeft="@dimen/TwentyFour"
+                     android:layout_marginRight="@dimen/Sixteen"
+                     android:gravity="left|center"
+                     android:text="Send/Receive money with your contacts easily"
+                     android:textColor="@color/secondary_text_material_dark"
+                     android:textSize="@dimen/Twelve" />
+             </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <com.app.kisanx.Objects.RobotoTextViewBold
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/Sixteen"
+                    android:gravity="top|start"
+                    android:text="\n\u2022 SEND SMS"
+                    android:textColor="@color/secondary_text_material_dark"
+                    android:textSize="@dimen/Fourteen"
+                    android:textStyle="bold" />
+
+                <com.app.kisanx.Objects.RobotoTextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="@dimen/TwentyFour"
+                    android:layout_marginEnd="@dimen/Sixteen"
+                    android:gravity="start|center"
+                    android:text="@string/auto_detect_otp"
+                    android:textColor="@color/secondary_text_material_dark"
+                    android:textSize="@dimen/Twelve" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="end">
+
+            <Button
+                android:id="@+id/buttonContinue"
+                style="@style/Base.Widget.AppCompat.Button.Borderless"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/Eight"
+                android:padding="@dimen/Eight"
+                android:text="@string/text_continue"
+                android:textColor="@color/teal400"
+                android:textSize="@dimen/Fourteen" />
+        </LinearLayout>
+    </LinearLayout>
+</android.support.v7.widget.CardView>

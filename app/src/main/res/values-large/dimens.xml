@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="One">1.2dp</dimen>
+    <dimen name="Two">2.4dp</dimen>
+    <dimen name="four">4.8dp</dimen>
+    <dimen name="five">6dp</dimen>
+    <dimen name="six">7.6dp</dimen>
+    <dimen name="Eight">9.6dp</dimen>
+    <dimen name="Twelve">14.4dp</dimen>
+    <dimen name="Fourteen">16.8dp</dimen>
+    <dimen name="Sixteen">19.2dp</dimen>
+    <dimen name="Eighteen">21.6dp</dimen>
+    <dimen name="Twenty">24dp</dimen>
+    <dimen name="TwentyTwo">26.4dp</dimen>
+    <dimen name="TwentyThree">27.6dp</dimen>
+    <dimen name="TwentyFour">28.8dp</dimen>
+    <dimen name="TwentyEight">33.6dp</dimen>
+    <dimen name="ThirtySix">43.2dp</dimen>
+    <dimen name="FourtyTwo">50.4dp</dimen>
+    <dimen name="FourtyEight">57.6dp</dimen>
+    <dimen name="FiftySix">67.2dp</dimen>
+    <dimen name="SixtyFour">76.8dp</dimen>
+    <dimen name="Eighty">96dp</dimen>
+    <dimen name="EightyFour">100.8dp</dimen>
+    <dimen name="NinetyEight">117.6dp</dimen>
+    <dimen name="HundreadEight">129.6dp</dimen>
+    <dimen name="HundreadTwentyEight">153.6dp</dimen>
+    <dimen name="HundreadFifty">180dp</dimen>
+    <dimen name="HundreadSixtyFour">196.8dp</dimen>
+    <dimen name="HundreadEighty">216dp</dimen>
+    <dimen name="HundreadEightyEight">225.6dp</dimen>
+
+
+    <dimen name="TwoHundreadEighty">336dp</dimen>
+
+
+    <dimen name="NegTwelve">-14.4dp</dimen>
+
+
+</resources>

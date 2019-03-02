@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Doctor App</string>
+    <string name="app_id">251796652192900</string>
+    <string name="app_secret">89114b0497bbf8d21856f7c9866ace5f</string>
+    <string name="twilio_account_id">AC1928517b09d349909ecddb1232020563</string>
+    <string name="auth_token">3e1e4e4bad412060910a09ccac54d93bbui</string>
+    <string name="bringing_it_up_in_a_moment">Bringing it up in a moment</string>
+    <string name="truecallerKey">QNHGYe5b61b69d56042338b03d221358136cd</string>
+
+    <string name="default_notification_channel_id" translatable="false">23</string>
+    <string name="default_notification_channel_name" translatable="false">PatientApp</string>
+    <string name="FACEBOOK_APP_ID" translatable="false">251796652192900</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN" translatable="false">df2f237cbee15658ab1b9bc8d0e58f56</string>
+    <string name="login_cancelled">Login Cancelled by User</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="login_error">Login Error</string>
+    <string name="text_continue">Continue</string>
+
+    <string name="ok">OK</string>
+    <string name="deny">Deny</string>
+    <string name="allow">Allow</string>
+    <string name="logout_message">Are you sure you want to logout?</string>
+
+    <string name="select_file">Select File</string>
+    <string name="success">Success</string>
+    <string name="sms_permission_required">SMS Permission Required</string>
+    <string name="sms_permission_message">We would like to give you the ultimate convenience by auto-reading and verifying the OTP</string>
+    <string name="storage_permission_message">For ensuring a secure and authenticated experience, we would need to save some details on your phone</string>
+    <string name="camera_permission_message">For ensuring uploading of Images and videos from your phone gallery</string>
+    <string name="camera_permission">Camera Permission Required</string>
+    <string name="audio_permission_message">For Audio to be recorded inside app features</string>
+    <string name="audio_permission">Record Audio Permission Required</string>
+
+    <string name="text_default">\u0020\u2022 default</string>
+    <string name="please_select_the_location_from_the_list">Please select the location from the list</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="to_get_going_we_need_to_access">To get going, we need to access</string>
+    <string name="phone_and_storage">" \u2022 PHONE and STORAGE"</string>
+    <string name="security_experience">To provide better security and seamless experience</string>
+    <string name="auto_detect_otp">To automatically detect OTPs and verify linked bank accounts</string>
+    <string name="title_of_the_visit">Title of the visit</string>
+    <string name="add_time_of_visit">Add Time of Visit</string>
+    <string name="describe_the_visit_here">Describe the visit here</string>
+    <string name="location_of_this_visit">Location of this visit</string>
+    <string name="permission_necessary">Permission necessary</string>
+    <string name="external_storage_permission">External storage permission is necessary</string>
+    <string name="select_sub_district">Select Sub District</string>
+    <string name="select_locality">Select Locality</string>
+    <string name="unit">UNIT</string>
+    <string name="today">Today\\n</string>
+    <string name="title_activity_add_prescription">AddPrescriptionActivity</string>
+    <string name="home">Home</string>
+    <string name="add_prescription">Add Prescription</string>
+
+
+    <string name="codec_title">Set your preferred audio and video codec. Not all codecs are supported with Group rooms. The media server will fallback to OPUS or VP8 if a preferred codec is not supported.</string>
+    <string name="pref_title_audio_codec">Audio Codec</string>
+    <string name="pref_title_video_codec">Video Codec</string>
+    <string name="sender_bandwidth_constraints">Set sender bandwidth constraints. Zero represents the WebRTC default value which varies by codec.</string>
+    <string name="max_audio_bitrate">Max Audio Bitrate (bits per second)</string>
+    <string name="max_video_bitrate">Max Video Bitrate (bits per second)</string>
+    <string name="turn_speaker_on">Speaker ON</string>
+    <string name="vp8_simulcast">VP8 Simulcast</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="room_status">status</string>
+    <string name="error_retrieving_access_token">Error retrieving token</string>
+    <string name="log_out">Log Out</string>
+    <string name="permissions_needed">Camera and Microphone permissions needed. Please allow in App Settings for additional functionality.</string>
+    <string name="settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="search">Search Medicine</string>
+    <string name="name">Name</string>
+    <!--df2f237cbee15658ab1b9bc8d0e58f56-->
+</resources>

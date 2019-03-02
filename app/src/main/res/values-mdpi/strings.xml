@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="select_photos">select photos</string>
+    <string name="call_now">Call Now</string>
+    <string name="Get_A_Callback">Get a Callback</string>
+</resources>
